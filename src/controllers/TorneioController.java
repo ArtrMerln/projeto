@@ -27,7 +27,7 @@ public class TorneioController {
 		TorneioDAO tdao = new TorneioDAO();
 		tdao.inserir(torneio);
 		System.out.println("adicionou");
-		return "redirect:../jogador/formJogador";
+		return "redirect:/jogador/fJogador";
 	}
 //
 //@GetMapping("/")

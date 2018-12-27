@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>action show</title>
 </head>
 <body>
 
@@ -12,28 +12,8 @@
 
 
 
-<h1>adicionar torneio</h1>
 
-	<form action="/projeto/torneio" method="post">
-
-		<div>
-			<label>nome: </label> <input type="text" name="nome">
-		</div>
-		<div>
-			<label>qtd jogadores: </label> <input type="text" name="qtdJogadores">
-		</div>
-		
-		
-		<div>
-			<button type="submit">Adicionar</button>
-		</div>
-	</form>
-
-
-
-
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Pic.img.jpg">
 
 
 

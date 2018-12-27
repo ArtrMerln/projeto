@@ -31,7 +31,7 @@ public class TorneioDAO {
 					
 			stmt.setString(1, torneio.getNome());
 			stmt.setInt(2, torneio.getQtdRodadas());
-			stmt.setInt(3, torneio.getQtdRodadas());
+			stmt.setInt(3, torneio.getQtdJogadores());
 			
 			stmt.execute();
 			stmt.close();
